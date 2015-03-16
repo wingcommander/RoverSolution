@@ -1,0 +1,24 @@
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\Entities.dll
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\Entities.pdb
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.core.dll
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\log4net.dll
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+H:\Rover Solution\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+H:\Rover Solution\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+H:\Rover Solution\ClassLibrary1\bin\Debug\Entities.dll
+H:\Rover Solution\ClassLibrary1\bin\Debug\nunit.core.dll
+H:\Rover Solution\ClassLibrary1\bin\Debug\nunit.framework.dll
+H:\Rover Solution\ClassLibrary1\bin\Debug\nunit.core.interfaces.dll
+H:\Rover Solution\ClassLibrary1\bin\Debug\log4net.dll
+H:\Rover Solution\ClassLibrary1\bin\Debug\nunit.framework.xml
+H:\Rover Solution\ClassLibrary1\bin\Debug\Entities.pdb
+H:\Rover Solution\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+H:\Rover Solution\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+H:\Rover Solution\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

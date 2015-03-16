@@ -1,0 +1,15 @@
+H:\Rover Solution\Entities\obj\Debug\ResolveAssemblyReference.cache
+H:\Rover Solution\Entities\bin\Debug\Mars.Entities.dll
+H:\Rover Solution\Entities\bin\Debug\Mars.Entities.pdb
+H:\Rover Solution\Entities\obj\Debug\Mars.Entities.dll
+H:\Rover Solution\Entities\obj\Debug\Mars.Entities.pdb
+H:\Rover Solution\Rover.Entities\bin\Debug\Mars.Entities.dll
+H:\Rover Solution\Rover.Entities\bin\Debug\Mars.Entities.pdb
+H:\Rover Solution\Rover.Entities\obj\Debug\ResolveAssemblyReference.cache
+H:\Rover Solution\Rover.Entities\obj\Debug\Mars.Entities.dll
+H:\Rover Solution\Rover.Entities\obj\Debug\Mars.Entities.pdb
+C:\Users\Garvan\Work\Rover Solution\Rover.Entities\bin\Debug\Mars.Entities.dll
+C:\Users\Garvan\Work\Rover Solution\Rover.Entities\bin\Debug\Mars.Entities.pdb
+C:\Users\Garvan\Work\Rover Solution\Rover.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Garvan\Work\Rover Solution\Rover.Entities\obj\Debug\Mars.Entities.dll
+C:\Users\Garvan\Work\Rover Solution\Rover.Entities\obj\Debug\Mars.Entities.pdb

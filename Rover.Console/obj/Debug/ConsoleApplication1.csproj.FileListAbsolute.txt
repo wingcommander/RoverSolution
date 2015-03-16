@@ -1,0 +1,22 @@
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ConsoleApplication1\bin\Debug\nunit.framework.dll
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ConsoleApplication1\bin\Debug\Entities.dll
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ConsoleApplication1\bin\Debug\nunit.framework.xml
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ConsoleApplication1\bin\Debug\Entities.pdb
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+H:\Rover Solution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+H:\Rover Solution\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+H:\Rover Solution\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+H:\Rover Solution\ConsoleApplication1\bin\Debug\Entities.dll
+H:\Rover Solution\ConsoleApplication1\bin\Debug\nunit.framework.dll
+H:\Rover Solution\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+H:\Rover Solution\ConsoleApplication1\bin\Debug\nunit.framework.xml
+H:\Rover Solution\ConsoleApplication1\bin\Debug\Entities.pdb
+H:\Rover Solution\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+H:\Rover Solution\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+H:\Rover Solution\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

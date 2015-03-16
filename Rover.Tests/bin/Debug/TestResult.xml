@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll" total="1" failures="0" not-run="0" date="2008-03-30" time="17:49:46">
+  <environment nunit-version="2.4.6.0" clr-version="2.0.50727.1434" os-version="Microsoft Windows NT 6.0.6001 Service Pack 1" platform="Win32NT" cwd="C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE" machine-name="GARVAN-PC" user="Garvan" user-domain="Garvan-PC" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite name="C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll" success="True" time="0.089" asserts="0">
+    <results>
+      <test-suite name="ClassLibrary1" success="True" time="0.084" asserts="0">
+        <results>
+          <test-suite name="PlateautTests" success="True" time="0.079" asserts="0">
+            <results>
+              <test-case name="ClassLibrary1.PlateautTests.TestSetPlateauSize" executed="True" success="True" time="0.067" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

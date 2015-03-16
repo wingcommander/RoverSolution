@@ -1,0 +1,10 @@
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\Entities\bin\Debug\Entities.dll
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\Entities\bin\Debug\Entities.pdb
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\Entities\obj\Debug\Entities.dll
+C:\Users\Garvan\Documents\Visual Studio 2008\Projects\ClassLibrary1\Entities\obj\Debug\Entities.pdb
+H:\Rover Solution\Entities\bin\Debug\Entities.dll
+H:\Rover Solution\Entities\bin\Debug\Entities.pdb
+H:\Rover Solution\Entities\obj\Debug\ResolveAssemblyReference.cache
+H:\Rover Solution\Entities\obj\Debug\Entities.dll
+H:\Rover Solution\Entities\obj\Debug\Entities.pdb
